@@ -1,0 +1,22 @@
+.result-convert-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 20px;
+}
+
+.conversion-result {
+  display: flex;
+  padding: 10px 0;
+}
+
+.from-text-conversion {
+  font-weight: lighter !important;
+  font-size: 48px !important;
+}
+
+.to-text-conversion {
+  color: var(--accent-color) !important;
+  font-weight: bold !important;
+  font-size: 48px !important;
+}

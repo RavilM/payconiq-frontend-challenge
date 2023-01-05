@@ -1,0 +1,1 @@
+export { useFetchLatestRates } from './useFetchLatestRates';

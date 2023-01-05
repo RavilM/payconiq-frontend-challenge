@@ -1,0 +1,15 @@
+.app-container-box {
+  display: flex;
+  padding: var(--page-padding);
+  background-color: var(--white-color);
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  padding-right: 30px;
+}
+
+.app-bar-tab-list {
+  flex: 1;
+}
